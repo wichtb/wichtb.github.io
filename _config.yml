@@ -7,7 +7,7 @@ first_name: Bernard
 middle_name:
 last_name: Wicht
 contact_note: >
-  Pour toute demande, merci d'utiliser l'adresse mail indiquée ci-dessous.
+  Pour toute demande, merci d'utiliser l'adresse mail indiquée ci-dessus.
 description: > 
   Site officiel de Bernard Wicht, spécialiste de la stratégie militaire, de la défense citoyenne et de la conflictualité contemporaine.
 footer_text: >
@@ -15,7 +15,7 @@ footer_text: >
   Hébergé par <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: stratégie, citoyen-soldat, défense citoyenne, guerre, Bernard Wicht, sciences politiques
 lang: fr
-icon: ⚛️
+icon: favicon.png
 url: https://wichtb.github.io
 baseurl: /
 last_updated: true
@@ -191,6 +191,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/blog.md
+  - _posts
+
 keep_files:
   - CNAME
   - .nojekyll
