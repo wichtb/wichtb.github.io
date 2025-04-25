@@ -30,4 +30,4 @@ Bernard Wicht est expert en géopolitique, en transformation de l’État modern
 
 Il intervient régulièrement auprès d'institutions militaires, dont l’École de Guerre, ainsi que dans des think tanks internationaux.
 
-Vous trouverez sur ce site ses publications, interviews, et informations de contact.
+Vous trouverez sur ce site ses œuvres, interventions, et informations de contact.
