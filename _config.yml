@@ -16,6 +16,7 @@ footer_text: >
   Hébergé par <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: stratégie, citoyen-soldat, défense citoyenne, guerre, Bernard Wicht, sciences politiques
 lang: fr
+locale: fr_FR
 icon: favicon.png
 url: https://wichtb.ch
 baseurl: /
