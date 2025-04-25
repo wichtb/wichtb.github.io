@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Parution prochaine: *Guerres en Europe* (Éditions Godefroy), disponible à partir du 22 mai 2025.  
+Parution prochaine: *Guerres en Europe* (Éditions J.-C. Godefroy), disponible à partir du 22 mai 2025.  
 Une analyse des nouveaux conflits internes et de la transformation du paysage stratégique européen.
