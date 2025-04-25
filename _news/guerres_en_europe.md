@@ -1,4 +1,5 @@
 ---
+title: Guerres en Europe
 layout: post
 date: 2025-05-22 10:00:00+0200
 inline: true
