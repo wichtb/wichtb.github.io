@@ -6,7 +6,7 @@ subtitle: Contact. Œuvres. Interventions.
 
 profile:
   align: left
-  image: prof_pic.png
+  image: prof_pic_themed.png
   image_circular: true
 
 scholar:

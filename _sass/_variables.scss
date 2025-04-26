@@ -33,7 +33,6 @@ $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
-
 $code-bg-color-light: rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
@@ -50,3 +49,21 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+/*******************************************************************************
+ * Additional Color Variables (Bernard Wicht Blog Theme)
+ ******************************************************************************/
+
+/* Light Mode */
+$wicht-bg-color: #D3D9D4 !default;        // Light background
+$wicht-primary-color: #212A31 !default;   // Dark text for light mode
+$wicht-secondary-bg: #2E3944 !default;    // Darker sections / footer
+$wicht-accent-color: #124E66 !default;    // Accent color (links, buttons)
+$wicht-hover-color: #748D92 !default;     // Hover color (secondary text)
+$wicht-footer-text-color: #D3D9D4 !default; // Footer text (light)
+
+/* Dark Mode */
+$wicht-dark-bg-color: #181C20 !default;   // Even darker background
+$wicht-light-text-color: #D3D9D4 !default; // Light text on dark background
+$wicht-footer-bg-dark: #2E3944 !default;  // Footer background in dark mode
+$wicht-accent-color-dark: #4FA3C3 !default; // Brighter teal for links in dark mode
