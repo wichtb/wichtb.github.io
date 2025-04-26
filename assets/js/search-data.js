@@ -1,7 +1,7 @@
-// get the ninja-keys element
+// obtenir l'élément ninja-keys
 const ninja = document.querySelector('ninja-keys');
 
-// add the home and posts menu items
+// ajouter les éléments du menu accueil et autres pages
 ninja.data = [{
     id: "nav-au-sujet-de",
     title: "Au sujet de",
@@ -27,41 +27,41 @@ ninja.data = [{
           description: "",
           section: "News",},{
         id: 'social-email',
-        title: 'email',
-        section: 'Socials',
+        title: 'Email',
+        section: 'Réseaux sociaux',
         handler: () => {
-          window.open("mailto:%77%69%63%68%74.%62%65%72%6E%61%72%64@%70%72%6F%74%6F%6E.%6D%65", "_blank");
+          window.open('wicht.bernard@proton.me', '_blank');
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
+        id: 'social-rss-icon',
+        title: 'Rss_icon',
+        section: 'Réseaux sociaux',
         handler: () => {
-          window.open("//feed.xml", "_blank");
+          window.open('true', '_blank');
         },
       },{
       id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
+      title: 'Passer au thème clair',
+      description: 'Changer le thème du site en clair',
+      section: 'Thème',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
+      title: 'Passer au thème sombre',
+      description: 'Changer le thème du site en sombre',
+      section: 'Thème',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
+      title: 'Utiliser le thème du système',
+      description: 'Changer le thème du site selon le système',
+      section: 'Thème',
       handler: () => {
         setThemeSetting("system");
       },
