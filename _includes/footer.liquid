@@ -4,10 +4,16 @@
   {{ site.middle_name }}
   {{ site.last_name }}. {{ site.footer_text }}
   {% if site.impressum_path %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Mentions légales</a>.
   {% endif %}
   {% if site.last_updated %}
-    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+    {%- assign months = "January:janvier,February:février,March:mars,April:avril,May:mai,June:juin,July:juillet,August:août,September:septembre,October:octobre,November:novembre,December:décembre" | split: "," -%}
+    {%- assign updated_date = 'now' | date: '%d %B %Y' -%}
+    {%- for month in months -%}
+      {%- assign pair = month | split: ":" -%}
+      {%- assign updated_date = updated_date | replace: pair[0], pair[1] -%}
+    {%- endfor -%}
+    Dernière mise à jour : {{ updated_date }}.
   {% endif %}
 {% endcapture %}
 
