@@ -16,7 +16,15 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 20%">
+              {%- assign months = "January:janvier,February:février,March:mars,April:avril,May:mai,June:juin,July:juillet,August:août,September:septembre,October:octobre,November:novembre,December:décembre" | split: "," -%}
+              {%- assign formatted_date = item.date | date: "%d %B %Y" -%}
+              {%- for month in months -%}
+                {%- assign pair = month | split: ":" -%}
+                {%- assign formatted_date = formatted_date | replace: pair[0], pair[1] -%}
+              {%- endfor -%}
+              {{ formatted_date }}
+            </th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -29,6 +37,6 @@
       </table>
     </div>
   {% else %}
-    <p>No news so far...</p>
+    <p>Pas encore d'actualités...</p>
   {% endif %}
 </div>
