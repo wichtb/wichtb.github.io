@@ -5,7 +5,7 @@ permalink: /
 subtitle: Contact. Œuvres. Interventions.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
   image_circular: true
 
