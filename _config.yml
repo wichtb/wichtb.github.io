@@ -19,7 +19,7 @@ lang: fr
 locale: fr_FR
 icon: favicon.png
 url: https://wichtb.ch
-baseurl: /
+baseurl: 
 last_updated: true
 impressum_path: 
 back_to_top: true
