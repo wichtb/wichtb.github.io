@@ -22,10 +22,12 @@ ninja.data = [{
           section: "News",},{id: "news-le-nouveau-site-officiel-de-bernard-wicht-est-désormais-en-ligne-vous-y-retrouverez-ses-publications-ses-interventions-ainsi-que-toutes-les-actualités-concernant-ses-travaux-de-recherche-et-ses-conférences-vous-pouvez-également-suivre-toutes-les-mises-à-jour-grâce-au-flux-rss",
           title: 'Le nouveau site officiel de Bernard Wicht est désormais en ligne ! Vous...',
           description: "",
-          section: "News",},{id: "news-parution-prochaine-guerres-en-europe-éditions-j-c-godefroy-disponible-à-partir-du-22-mai-2025-une-analyse-des-nouveaux-conflits-internes-et-de-la-transformation-du-paysage-stratégique-européen",
-          title: 'Parution prochaine: Guerres en Europe (Éditions J.-C. Godefroy), disponible à partir du 22...',
+          section: "News",},{id: "news-guerre-en-europe-éditions-j-c-godefroy-disponible-à-partir-du-22-mai-2025",
+          title: 'Guerre en Europe (Éditions J.-C. Godefroy), disponible à partir du 22 mai 2025....',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/guerre-en-europe.html";
+            },},{
         id: 'social-email',
         title: 'Email',
         section: 'Réseaux sociaux',
