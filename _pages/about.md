@@ -26,8 +26,8 @@ latest_posts:
   limit: 3
 ---
 
-Bernard Wicht est expert en géopolitique, en transformation de l’État moderne et en défense citoyenne. Auteur de plusieurs ouvrages dont *Les loups et l'agneau-citoyen* (2019), *Citoyen-soldat 2.0* (2017), *Europe Mad Max demain ?* (2013) et *L’OTAN attaque : La nouvelle donne stratégique* (1999), ses recherches portent sur les mutations de l’ordre stratégique contemporain.
+Bernard Wicht est privat-docent à l’Université de Lausanne et chargé de recherche au Conservatoire National des Arts et Métiers (CNAM) à Paris, dans le domaine guerre et stratégie. Spécialiste de géopolitique, de la transformation de l’État moderne et de la défense citoyenne, il intervient régulièrement auprès d’institutions militaires, dont l’École de Guerre, ainsi que dans des think tanks internationaux.
 
-Il intervient régulièrement auprès d'institutions militaires, dont l’École de Guerre, ainsi que dans des think tanks internationaux.
+Il est l’auteur de plusieurs ouvrages, parmi lesquels Vers l’autodéfense. Le défi des guerres internes (2021), Les loups et l'agneau-citoyen (2019), Citoyen-soldat 2.0 (2017, avec A. Baeriswyl), Europe Mad Max demain ? Retour à la défense citoyenne (2013), Une nouvelle Guerre de Trente Ans : Réflexion et hypothèse sur la crise actuelle (2012) et L’OTAN attaque : La nouvelle donne stratégique (1999). Ses recherches portent sur les mutations de l’ordre stratégique contemporain.
 
 Vous trouverez sur ce site ses œuvres, interventions, et informations de contact.
