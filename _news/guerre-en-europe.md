@@ -20,9 +20,6 @@ thumbnail: assets/img/publication_preview/guerre-en-europe.png
 </div>
 
 <p class="mt-4" style="font-size: 1.1rem;">
-Dans cette vidéo, Bernard Wicht présente son livre <em>Guerre en Europe</em>, en explique les grandes lignes et répond aux questions de Jacques Carletto.
+Dans <a href="https://www.youtube.com/watch?v=kncu3rX7jSE" target="_blank" rel="noopener">cette vidéo</a>, Bernard Wicht présente son livre, en explique les grandes lignes et répond aux questions de Jacques Carletto.
 </p>
 
-<div class="w-100" style="max-width: 100%;">
-{% include video.liquid path="https://www.youtube.com/embed/kncu3rX7jSE" class="img-fluid rounded z-depth-1" %}
-</div>
