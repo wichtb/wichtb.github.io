@@ -1,7 +1,7 @@
 ---
-title: Guerre en Europe (Éditions J.-C. Godefroy), disponible à partir du 22 mai 2025.  
+title: Guerre en Europe (Éditions J.-C. Godefroy)  
 layout: post
-date: 2025-05-22 00:00:00+0200
+date: 2025-05-22T08:00:00+02:00
 inline: false
 related_posts: false
 thumbnail: assets/img/publication_preview/guerre-en-europe.png
