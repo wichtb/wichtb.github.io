@@ -253,6 +253,18 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+    <!-- Custom Amazon Button -->
+      {% if entry.amazon_url %}
+        <a href="{{ entry.amazon_url }}" class="btn btn-sm z-depth-0" role="button">Amazon</a>
+      {% endif %}
+    <!-- Custom FNAC Button -->
+      {% if entry.fnac_url %}
+        <a href="{{ entry.fnac_url }}" class="btn btn-sm z-depth-0" role="button">FNAC</a>
+      {% endif %}
+    <!-- Custom Payot Button -->
+      {% if entry.payot_url %}
+        <a href="{{ entry.payot_url }}" class="btn btn-sm z-depth-0" role="button">Payot</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
