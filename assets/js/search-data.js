@@ -9,14 +9,32 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-œuvres",
+  },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-œuvres",
           title: "Œuvres",
           description: "Œuvres par ordre chronologique.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "news-bernard-wicht-est-intervenu-dans-l-émission-tocsin-aux-côtés-du-grand-reporter-régis-le-sommier-voir-l-entretien-complet-sur-youtube",
+        },{id: "post-d-39-une-suisse-à-l-39-autre-25-ans-de-coopération-internationale-en-éducation",
+        
+          title: "D&#39;une Suisse à l&#39;autre: 25 ans de coopération internationale en éducation",
+        
+        description: "Article original de Bernard Wicht publié sur le site de la CDIP à l’occasion de son départ à la retraite.",
+        section: "Articles",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/06/11/25_years.html";
+          
+        },
+      },{id: "news-bernard-wicht-est-intervenu-dans-l-émission-tocsin-aux-côtés-du-grand-reporter-régis-le-sommier-voir-l-entretien-complet-sur-youtube",
           title: 'Bernard Wicht est intervenu dans l’émission Tocsin aux côtés du grand reporter Régis...',
           description: "",
           section: "News",},{id: "news-le-nouveau-site-officiel-de-bernard-wicht-est-désormais-en-ligne-vous-y-retrouverez-ses-publications-ses-interventions-ainsi-que-toutes-les-actualités-concernant-ses-travaux-de-recherche-et-ses-conférences-vous-pouvez-également-suivre-toutes-les-mises-à-jour-grâce-au-flux-rss",
@@ -28,7 +46,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/guerre-en-europe.html";
             },},{id: "news-d-une-suisse-à-l-autre-25-ans-de-coopération-internationale-en-éducation",
-          title: 'D’une Suisse à l’autre, 25 ans de coopération internationale en éducation',
+          title: 'D’une Suisse à l’autre: 25 ans de coopération internationale en éducation',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/clap-de-fin.html";
