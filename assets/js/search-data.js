@@ -27,6 +27,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/guerre-en-europe.html";
+            },},{id: "news-d-une-suisse-à-l-autre-25-ans-de-coopération-internationale-en-éducation",
+          title: 'D’une Suisse à l’autre, 25 ans de coopération internationale en éducation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/clap-de-fin.html";
             },},{
         id: 'social-email',
         title: 'Email',
