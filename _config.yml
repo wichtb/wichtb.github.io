@@ -138,7 +138,7 @@ related_blog_posts:
 
 newsletter:
   enabled: true
-  endpoint: "https://app.loops.so/api/newsletter-form/cmd6a70xt0c3a000ih9n1tym5"
+  endpoint: cmd6a70xt0c3a000ih9n1tym5
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
