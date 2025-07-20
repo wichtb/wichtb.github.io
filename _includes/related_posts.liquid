@@ -7,9 +7,9 @@
     <br>
     <ul class="list-disc pl-8"></ul>
 
-    <!-- Adds related posts to the end of an article -->
-    <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
-    <p class="mb-2">Here are some more articles you might like to read next:</p>
+    <!-- Ajoute des articles connexes à la fin d'un article -->
+    <h2 class="text-3xl font-semibold mb-4 mt-12">Vous avez aimé lire cet article ?</h2>
+    <p class="mb-2">Voici quelques autres articles que vous pourriez aimer lire ensuite :</p>
   {% endunless %}
 
   <li class="my-2">
@@ -26,6 +26,6 @@
   </li>
 {% endfor %}
 {% if site.newsletter.enabled and site.footer_fixed %}
-  <p class="mb-2" style="margin-top: 1.5rem !important">Subscribe to be notified of future articles:</p>
+  <p class="mb-2" style="margin-top: 1.5rem !important">Abonnez-vous pour être informé des futurs articles :</p>
   {% include newsletter.liquid left=true %}
 {% endif %}
