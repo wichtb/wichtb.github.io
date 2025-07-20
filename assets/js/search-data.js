@@ -50,6 +50,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/clap-de-fin.html";
+            },},{id: "news-la-guerre-sans-état-fragmentation-du-conflit-et-retour-à-l-autodéfense",
+          title: 'La guerre sans État ? Fragmentation du conflit et retour à l’autodéfense',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-15-25_war_without_state.html";
             },},{
         id: 'social-email',
         title: 'Email',
