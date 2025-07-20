@@ -44,17 +44,17 @@ ninja.data = [{
           title: 'Guerre en Europe (Éditions J.-C. Godefroy)',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/guerre-en-europe.html";
+              window.location.href = "/news/2025-05-22.html";
             },},{id: "news-d-une-suisse-à-l-autre-25-ans-de-coopération-internationale-en-éducation",
           title: 'D’une Suisse à l’autre: 25 ans de coopération internationale en éducation',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/clap-de-fin.html";
+              window.location.href = "/news/2025-06-11.html";
             },},{id: "news-la-guerre-sans-état-fragmentation-du-conflit-et-retour-à-l-autodéfense",
           title: 'La guerre sans État ? Fragmentation du conflit et retour à l’autodéfense',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-07-15-25_war_without_state.html";
+              window.location.href = "/news/2025-07-15.html";
             },},{
         id: 'social-email',
         title: 'Email',
