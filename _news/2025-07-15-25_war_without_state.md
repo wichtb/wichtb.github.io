@@ -1,0 +1,19 @@
+---
+layout: post  
+title: "La guerre sans État ? Fragmentation du conflit et retour à l’autodéfense"  
+date: 2025-07-15T08:00:00+02:00
+related_posts: false  
+inline: false
+related_publications: true
+---
+
+Dans un entretien accordé à TV Libertés, Bernard Wicht examine la transformation des formes de guerre dans un contexte de retrait étatique. L’entretien peut être visionné ici : [voir la vidéo](https://www.youtube.com/watch?v=xxxxx).
+
+Il y développe la thèse selon laquelle la guerre se dissocie progressivement de l’État. Reprenant la formule de Charles Tilly — « la guerre fait l’État et l’État fait la guerre » —, il montre que le désengagement ou l’effondrement de l’autorité centrale engendre des conflits décentralisés : insurrections, actions terroristes, bandes armées. Cette dynamique s’appuie sur le cadre théorique de Joseph Tainter, selon lequel l’augmentation de la complexité institutionnelle finit par provoquer une rupture du système.
+
+Wicht observe également la montée du mercenariat et des sociétés militaires privées, qu’il interprète comme un symptôme de la « libéralisation de la défense ». L’État perd son monopole sur la violence légitime au profit d’acteurs dispersés, autonomes, difficilement contrôlables.  
+
+Il note enfin que les jeunes générations ne s’identifient plus à l’armée ni à l’État, mais rejoignent des structures marginales, souvent informelles. Ce phénomène traduit une érosion du sentiment d’appartenance collective, au profit de formes d’autodéfense fragmentées.  
+
+Ces réflexions s’inscrivent dans la continuité de son dernier ouvrage, *Guerre en Europe : Gangs contre Milices privées* {% cite wicht2025guerreseurope %}, dans lequel il explore cette évolution vers une conflictualité post-étatique.
+
