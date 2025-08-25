@@ -21,9 +21,9 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
-  limit: 3
+  limit: 5
 ---
 
 Bernard Wicht est privat-docent à l’Université de Lausanne et chargé de recherche au Conservatoire National des Arts et Métiers (CNAM) à Paris, dans le domaine guerre et stratégie. Spécialiste de géopolitique, de la transformation de l’État moderne et de la défense citoyenne, il intervient régulièrement auprès d’institutions militaires, dont l’École de Guerre, ainsi que dans des think tanks internationaux.
