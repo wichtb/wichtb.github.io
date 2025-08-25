@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-d-39-une-suisse-à-l-39-autre-25-ans-de-coopération-internationale-en-éducation",
+        },{id: "post-amérique-mercenaire-et-libanisation-de-l-39-europe",
+        
+          title: "Amérique mercenaire et libanisation de l&#39;Europe",
+        
+        description: "Chronique géopolitique de Bernard Wicht sur la stratégie mercenaire américaine et les risques de libanisation de l&#39;Europe face à la crise ukrainienne.",
+        section: "Articles",
+        handler: () => {
+          
+            window.location.href = "/chronique/2025/08/24/amerique-mercenaire.html";
+          
+        },
+      },{id: "post-d-39-une-suisse-à-l-39-autre-25-ans-de-coopération-internationale-en-éducation",
         
           title: "D&#39;une Suisse à l&#39;autre: 25 ans de coopération internationale en éducation",
         
