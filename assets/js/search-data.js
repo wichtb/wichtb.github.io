@@ -55,6 +55,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-07-15.html";
+            },},{id: "news-l-39-europe-face-au-risque-de-guerre-civile",
+          title: 'L&amp;#39;Europe face au risque de guerre civile',
+          description: "Bernard Wicht met en garde contre les risques de guerre civile en Europe, s&#39;appuyant sur l&#39;analyse de David Betz dans Military Strategy Magazine.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-14.html";
             },},{
         id: 'social-email',
         title: 'Email',
