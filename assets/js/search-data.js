@@ -71,6 +71,16 @@ ninja.data = [{
           description: "Bernard Wicht met en garde contre les risques de guerre civile en Europe, s&#39;appuyant sur l&#39;analyse de David Betz dans Military Strategy Magazine.",
           section: "News",handler: () => {
               window.location.href = "/news/2025-08-14.html";
+            },},{id: "news-guerre-israël-hamas-quelles-leçons-pour-la-suisse",
+          title: 'Guerre Israël-Hamas : quelles leçons pour la Suisse ?',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-26.html";
+            },},{id: "news-et-si-nous-vivions-la-fameuse-crise-finale-du-capitalisme",
+          title: 'Et si nous vivions la fameuse crise finale du capitalisme ?',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-07.html";
             },},{
         id: 'social-email',
         title: 'Email',
