@@ -81,6 +81,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-07.html";
+            },},{id: "news-affaire-jacques-baud-ou-le-révélateur-d-39-une-dérive-suisse",
+          title: 'Affaire Jacques Baud, ou le révélateur d&amp;#39;une dérive suisse',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-11.html";
             },},{
         id: 'social-email',
         title: 'Email',
