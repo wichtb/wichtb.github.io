@@ -86,6 +86,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-01-11.html";
+            },},{id: "news-état-zombie-et-lobbys-quand-le-capitalisme-bascule-dans-l-39-âge-de-la-piraterie",
+          title: 'État zombie et lobbys : quand le capitalisme bascule dans l&amp;#39;âge de la...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-15.html";
+            },},{id: "news-iran-chypre-ormuz-la-france-s-39-engage-et-l-39-amérique-vacille",
+          title: 'Iran, Chypre, Ormuz : la France s&amp;#39;engage et l&amp;#39;Amérique vacille',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-10.html";
             },},{
         id: 'social-email',
         title: 'Email',
