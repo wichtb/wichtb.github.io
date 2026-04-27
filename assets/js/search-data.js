@@ -96,6 +96,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-10.html";
+            },},{id: "news-les-états-unis-en-situation-de-déclin-final-iran-ukraine",
+          title: 'Les États-Unis en situation de déclin final : Iran, Ukraine',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-27.html";
             },},{
         id: 'social-email',
         title: 'Email',
