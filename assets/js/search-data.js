@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-amérique-mercenaire-et-libanisation-de-l-39-europe",
+        },{id: "post-demain-la-guerre",
+        
+          title: "Demain la guerre ?",
+        
+        description: "Chronique de Bernard Wicht sur le contexte géo-stratégique des votations du 14 juin, à la lumière de la Lettre ouverte de Jeffrey Sachs au Chancelier allemand Friedrich Merz.",
+        section: "Articles",
+        handler: () => {
+          
+            window.location.href = "/chronique/2026/06/05/demain-la-guerre.html";
+          
+        },
+      },{id: "post-amérique-mercenaire-et-libanisation-de-l-39-europe",
         
           title: "Amérique mercenaire et libanisation de l&#39;Europe",
         
