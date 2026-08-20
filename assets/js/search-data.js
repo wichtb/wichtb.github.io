@@ -112,6 +112,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-27.html";
+            },},{id: "news-conférence-à-lausanne-pourquoi-l-39-europe-veut-elle-faire-la-guerre-à-la-russie",
+          title: 'Conférence à Lausanne : « Pourquoi l&amp;#39;Europe veut-elle faire la guerre à la...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-20.html";
             },},{
         id: 'social-email',
         title: 'Email',
