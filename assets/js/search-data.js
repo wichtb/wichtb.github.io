@@ -117,6 +117,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-08-20.html";
+            },},{id: "news-neutralité-pourquoi-l-39-europe-veut-elle-faire-la-guerre-à-la-russie",
+          title: 'Neutralité : « Pourquoi l&amp;#39;Europe veut-elle faire la guerre à la Russie ?...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-30.html";
+            },},{id: "news-vidéo-de-la-causerie-pourquoi-l-39-europe-veut-elle-faire-la-guerre-à-la-russie",
+          title: 'Vidéo de la causerie : « Pourquoi l&amp;#39;Europe veut-elle faire la guerre à...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-15.html";
             },},{
         id: 'social-email',
         title: 'Email',
